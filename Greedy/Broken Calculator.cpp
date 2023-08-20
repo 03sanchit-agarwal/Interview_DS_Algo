@@ -13,11 +13,11 @@ public:
             return startValue-target;
         
         //even
-        if(target%2 == 0) {
+        if(target%2 == 0) {                                         //even hain to divide hi krdo 2 se greedily
             return 1 + brokenCalc(startValue, target/2);
         }
         
         
-        return 1 + brokenCalc(startValue, target+1);
+        return 1 + brokenCalc(startValue, target+1);          //odd hai to +1 hi best option hai
     }
 };
