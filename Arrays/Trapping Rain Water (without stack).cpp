@@ -4,6 +4,12 @@
     Leetcode Link                     : https://leetcode.com/problems/trapping-rain-water/
 */
 
+
+
+//hr ek elemnt ka saare left m se max,   and saare right walo me se max , in dono ka min nikaldo ,   ...
+//height for each index = min(maxleft, maxright) - height[i];
+//rightmax , leftmax ....arra m store kr skte hai
+
 class Solution {
 public:
     vector<int> getLeftMax(vector<int>& height, int n) {
