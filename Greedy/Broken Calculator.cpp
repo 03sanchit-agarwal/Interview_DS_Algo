@@ -4,6 +4,8 @@
     Leetcode Link               : https://leetcode.com/problems/broken-calculator/
 */
 
+// acha hai ki aage se multipl minus krke jaay usse ki .....target se chalo divide by 2 ya +1 krte hue
+
 class Solution {
 public:
     int brokenCalc(int startValue, int target) {
