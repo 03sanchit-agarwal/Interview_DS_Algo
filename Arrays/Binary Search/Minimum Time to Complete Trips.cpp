@@ -16,16 +16,16 @@ public:
             actualTrips += givenTime/t;
         }
         
-        return actualTrips >= totalTrips;
+        return actualTrips >= totalTrips;     //if sum sahi mila
     }
     
     long long minimumTime(vector<int>& time, int totalTrips) {
         int n = time.size();
         
         long long l = 1;
-        long long r = (long long) *min_element(begin(time), end(time)) * totalTrips;
+        long long r = (long long) *min_element(begin(time), end(time)) * totalTrips;  //can also write 1ll*....
         
-        while(l < r) {
+        while(l < r) {     //we got this by dry run
             
             long long mid_time = l + (r - l)/2;
             
