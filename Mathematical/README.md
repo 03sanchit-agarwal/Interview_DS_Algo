@@ -1,5 +1,5 @@
 <a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
-<img src="http://crystalclearmaths.com/wp-content/uploads/2015/12/Mathematical-Symbols.jpg" width="600" height="250">
+<img src="http://www.freeimageslive.com/galleries/workplace/education/pics/maths_school.jpg" width="600" height="250">
 
 # Mathematical : :triangular_flag_on_post:
 
@@ -152,6 +152,26 @@
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Number%20of%20Ways%20to%20Reorder%20Array%20to%20Get%20Same%20BST.cpp"> Number of Ways to Reorder Array to Get Same BST (Leetcode - 1569)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Excel%20Sheet%20Column%20Title.cpp"> Excel Sheet Column Title (Leetcode - 168)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.cpp"> Count All Valid Pickup and Delivery Options (Leetcode - 1359)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Power%20of%20Four.cpp"> Power Of Four (Leetcode - 342)</a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Mathematical/Determine%20if%20a%20Cell%20Is%20Reachable%20at%20a%20Given%20Time.cpp"> Determine if a Cell Is Reachable at a Given Time (Leetcode - 2849)</a>
 				</td>
 			</tr>
 		</tbody>

@@ -36,22 +36,12 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Remove%20Duplicate%20Letters">Remove Duplicate Letters (Leetcode-316)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Domino%20Rotations%20For%20Equal%20Row">Minimum Domino Rotations For Equal Row (Leetcode-1007)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Bag%20of%20Tokens.cpp">Bag of Tokens (Leetcode-948)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero">Minimum Operations to Reduce X to Zero (Leetcode-1658)</a>
 				</td>
 			</tr>
 			<tr>
@@ -182,6 +172,41 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Dota2%20Senate.cpp"> Dota2 Senate (Leetcode-649)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Replacements%20to%20Sort%20the%20Array.cpp"> Minimum Replacements to Sort the Array (Leetcode-2366)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Number%20of%20Taps%20to%20Open%20to%20Water%20a%20Garden.cpp"> Minimum Number of Taps to Open to Water a Garden (Leetcode-1326)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.cpp"> Minimum Deletions to Make Character Frequencies Unique (Leetcode-1647)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Remove%20Colored%20Pieces%20if%20Both%20Neighbors%20are%20the%20Same%20Color.cpp"> Remove Colored Pieces if Both Neighbors are the Same Color (Leetcode-2038)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Maximum%20Score%20of%20a%20Good%20Subarray.cpp"> Maximum Score of a Good Subarray (Leetcode-1793)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Eliminate%20Maximum%20Number%20of%20Monsters.cpp"> Eliminate Maximum Number of Monsters (Leetcode-1921)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Greedy/Maximum%20Element%20After%20Decreasing%20and%20Rearranging.cpp"> Maximum Element After Decreasing and Rearranging (Leetcode-1846)</a>
 				</td>
 			</tr>
 		</tbody>

@@ -1,5 +1,6 @@
 <a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
-<img src="https://i.ytimg.com/vi/qH6yxkw0u78/maxresdefault.jpg" width="600" height="250">
+
+<img src="https://i.pinimg.com/originals/d0/04/28/d00428efa0bf27b9edd37eac32dfd2c1.png" width="600" height="250">
 
 Another good resource to find all tree concepts at one spot : <a href=  "https://leetcode.com/discuss/general-discussion/937307/iterative-recursive-dfs-bfs-tree-traversal-in-pre-post-levelorder-views">Treeeees 🌳</a>
 
@@ -391,6 +392,21 @@ Another good resource to find all tree concepts at one spot : <a href=  "https:/
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Maximum%20Level%20Sum%20of%20a%20Binary%20Tree.cpp"> Maximum Level Sum of a Binary Tree (Leetcode-1161)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Validate%20Binary%20Tree%20Nodes.cpp"> Validate Binary Tree Nodes (Leetcode-1361)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Find%20Largest%20Value%20in%20Each%20Tree%20Row.cpp"> Find Largest Value in Each Tree Row (Leetcode-515)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Tree/Count%20Nodes%20Equal%20to%20Average%20of%20Subtree.cpp"> Count Nodes Equal to Average of Subtree (Leetcode-2265)</a>
 				</td>
 			</tr>
 		</tbody>

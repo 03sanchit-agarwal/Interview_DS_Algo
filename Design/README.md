@@ -1,5 +1,5 @@
 <a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
-<img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/design-system-value-sq.jpg" width="600" height="250">
+<img src="https://d1f8ynwy3q50d8.cloudfront.net/wp-content/uploads/2015/09/cpm-design-thinking-opener.jpg" width="600" height="250">
 
 # Design : :triangular_flag_on_post:
 
@@ -46,7 +46,7 @@
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashMap">Design HashMap (Leetcode - 706)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Design%20HashMap.cpp">Design HashMap (Leetcode - 706)</a>
 				</td>
 			</tr>
 			<tr>
@@ -66,7 +66,7 @@
 			</tr>
 			<tr>
         <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Flatten%20Nested%20List%20Iterator">Flatten Nested List Iterator (Leetcode - 341)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Flatten%20Nested%20List%20Iterator.cpp">Flatten Nested List Iterator (Leetcode - 341)</a>
 				</td>
 			</tr>
 			<tr>
@@ -137,6 +137,11 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Snapshot%20Array.cpp"> Snapshot Array (Leetcode - 1146)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Design/Seat%20Reservation%20Manager.cpp"> Seat Reservation Manager (Leetcode - 1845)</a>
 				</td>
 			</tr>
 		</tbody>

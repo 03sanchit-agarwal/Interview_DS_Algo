@@ -38,7 +38,7 @@ When to use what Binary Search - <a href = "https://leetcode.com/discuss/general
       </tr>
 			<tr>
           			  <td>
-					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/The%20K%20Weakest%20Rows%20in%20a%20Matrix">The K Weakest Rows in a Matrix (Leetcode-1337)</a>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp">The K Weakest Rows in a Matrix (Leetcode-1337)</a>
 				  </td>
       			</tr>
 			<tr>
@@ -159,6 +159,16 @@ When to use what Binary Search - <a href = "https://leetcode.com/discuss/general
 			<tr>
           			  <td>
 					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Minimize%20the%20Maximum%20Difference%20of%20Pairs.cpp"> Minimize the Maximum Difference of Pairs (Leetcode-2616)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Number%20of%20Flowers%20in%20Full%20Bloom.cpp"> Number of Flowers in Full Bloom (Leetcode-2251)</a>
+				  </td>
+      			</tr>
+			<tr>
+          			  <td>
+					  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Binary%20Search/Find%20in%20Mountain%20Array.cpp"> Find in Mountain Array (Leetcode-1095)</a>
 				  </td>
       			</tr>
 		</tbody>

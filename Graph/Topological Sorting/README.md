@@ -42,5 +42,20 @@
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sorting/Largest%20Color%20Value%20in%20a%20Directed%20Graph.cpp">Largest Color Value in a Directed Graph(Leetcode-1857)</a>
 				</td>
 			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sorting/Sort%20Items%20by%20Groups%20Respecting%20Dependencies.cpp"> Sort Items by Groups Respecting Dependencies (Leetcode-1203)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sorting/Parallel%20Courses.cpp"> Parallel Courses (Leetcode-1136)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Topological%20Sorting/Parallel%20Courses%20III.cpp"> Parallel Courses III (Leetcode-2050)</a>
+				</td>
+			</tr>
 		</tbody>
 </table>

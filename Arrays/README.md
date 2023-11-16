@@ -14,6 +14,9 @@
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Two%20Pointer">:file_folder:Two Pointer</a>
 	
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Cumulative_Sum(Prefix%20Array)">:file_folder:Cumulative_Sum(Prefix Array)</a>
+
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/Arrays/Simulation">:file_folder:Simulation</a>
+  
 </details>
 
 <h1>Questions</h1>
@@ -315,6 +318,36 @@
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Put%20Marbles%20in%20Bags.cpp"> Put Marbles in Bags (Leetcode-2551)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.cpp"> Group the People Given the Group Size They Belong To (Leetcode-1282)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Find%20the%20Duplicate%20Number.cpp"> Find the Duplicate Number (Leetcode-287)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Sort%20Array%20By%20Parity.cpp"> Sort Array By Parity (Leetcode-905)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Monotonic%20Array.cpp"> Monotonic Array (Leetcode-896)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Minimum%20Number%20of%20Operations%20to%20Make%20Array%20Continuous..cpp"> Minimum Number of Operations to Make Array Continuous (Leetcode-2009)</a>
+				</td>
+			</tr>
+			<tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Arrays/Pascal's%20Triangle%20II.cpp"> Pascal's Triangle II (Leetcode-119)</a>
 				</td>
 			</tr>
 		</tbody>

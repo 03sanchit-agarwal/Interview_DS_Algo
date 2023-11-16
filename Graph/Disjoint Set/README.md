@@ -21,6 +21,11 @@
 			</tr>
 			<tr>
         			<td>
+					        <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Disjoint%20Set/Disjoint%20set%20(Union-Find-Size).cpp"> Disjoint set (Union-Find-Size)</a>
+				      </td>
+			</tr>
+			<tr>
+        			<td>
 					        <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Disjoint%20Set/Max%20Area%20of%20Island.cpp"> Max Area of Island (Leetcode-695)</a>
 				      </td>
 			</tr>
@@ -62,6 +67,11 @@
 			<tr>
         			<td>
 					        <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Disjoint%20Set/Remove%20Max%20Number%20of%20Edges%20to%20Keep%20Graph%20Fully%20Traversable.cpp"> Remove Max Number of Edges to Keep Graph Fully Traversable (Leetcode - 1579)</a>
+				      </td>
+			</tr>
+			<tr>
+        			<td>
+					        <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Disjoint%20Set/Validate%20Binary%20Tree%20Nodes.cpp"> Validate Binary Tree Nodes (Leetcode - 1361)</a>
 				      </td>
 			</tr>
 		</tbody>

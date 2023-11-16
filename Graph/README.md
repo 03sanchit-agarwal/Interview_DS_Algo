@@ -192,11 +192,6 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			</tr>
 			<tr>
        				 <td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Parallel%20Courses">Parallel Courses (Leetcode : 1136)</a>
-				</td>
-			</tr>
-			<tr>
-       				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Critical%20Connections%20in%20a%20Network">Critical Connections in a Network (Leetcode : 1192)</a>
 				</td>
 			</tr>
@@ -293,6 +288,26 @@ Another good source for all Graph Algorithms at one spot : <a href = "https://le
 			<tr>
        				 <td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Maximal%20Network%20Rank.cpp"> Maximal Network Rank (Leetcode : 1615) </a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Find%20Critical%20and%20Pseudo-Critical%20Edges%20in%20Minimum%20Spanning%20Tree.cpp"> Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree (Leetcode : 1489) </a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Reconstruct%20Itinerary.cpp"> Reconstruct Itinerary (Leetcode : 332) </a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Shortest%20Path%20Visiting%20All%20Nodes.cpp"> Shortest Path Visiting All Nodes (Leetcode : 847) </a>
+				</td>
+			</tr>
+			<tr>
+       				 <td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/Graph/Bus%20Routes.cpp"> Bus Routes (Leetcode : 815) </a>
 				</td>
 			</tr>
 		</tbody>

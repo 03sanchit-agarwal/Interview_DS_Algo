@@ -1,87 +1,47 @@
 /*
-    Company Tags  : Bloomberg
-    Leetcode Link : https://leetcode.com/problems/implement-stack-using-queues/
+    MY YOUTUBE VIDEO ON THIS Qn : https://www.youtube.com/watch?v=LaBE0gNYCaM
+    Company Tags                : Bloomberg
+    Leetcode Link               : https://leetcode.com/problems/implement-stack-using-queues/
 */
 
-//Approach-1 (Using dequeq)
+//Approach-1 (Using 2 queues with O(n) pop)
 class MyStack {
 public:
-    deque<int> deq;
     /** Initialize your data structure here. */
+    queue<int> q1;
+    queue<int> q2;
     MyStack() {
-        deq.clear();
+        
     }
     
     /** Push element x onto stack. */
     void push(int x) {
-        return deq.push_back(x);
-    }
-    
-    /** Removes the element on top of the stack and returns that element. */
-    int pop() {
-        int top = deq.back();
-        deq.pop_back();
-        return top;
-    }
-    
-    /** Get the top element. */
-    int top() {
-        return deq.back();
-    }
-    
-    /** Returns whether the stack is empty. */
-    bool empty() {
-        return deq.empty();
-    }
-};
-
-//Approach-2 (Using 2 queues with O(n) pop)
-class MyStack {
-public:
-    queue<int> que;
-    int topEl = -1;
-    /** Initialize your data structure here. */
-    MyStack() {
-    }
-    
-    /** Push element x onto stack. */
-    void push(int x) {
-        topEl = x;
-        que.push(x);
-    }
-    
-    /** Removes the element on top of the stack and returns that element. */
-    int pop() {
-        queue<int> tempQue;
-        int size       = que.size();
-        int last       = -1;
-        int secondLast = -1;
-        while(size > 0) {
-            int x = que.front();
-            que.pop();
-            if(size > 1)
-                tempQue.push(x);
-            secondLast = last;
-            last = x;
-            size--;
+        q2.push(x);
+        while(!q1.empty()){
+            q2.push(q1.front());    q1.pop();
         }
-        que   = tempQue;
-        topEl = secondLast;
-        return last;
+        swap(q1, q2);
+    }
+    
+    /** Removes the element on top of the stack and returns that element. */
+    int pop() {
+        int result = top();
+        q1.pop();
+        return result;
     }
     
     /** Get the top element. */
     int top() {
-        return topEl;
+        return q1.front();
     }
     
     /** Returns whether the stack is empty. */
     bool empty() {
-        return que.empty();
+        return q1.empty();
     }
 };
 
-//Approach-3 (Using single queue with O(n) push)
+//Approach-2 (Using single queue with O(n) push)
 class MyStack {
 public:
     queue<int> que;
@@ -113,5 +73,38 @@ public:
     /** Returns whether the stack is empty. */
     bool empty() {
         return que.empty();
+    }
+};
+
+
+//Approach-3 (Using dequeq)
+class MyStack {
+public:
+    deque<int> deq;
+    /** Initialize your data structure here. */
+    MyStack() {
+        deq.clear();
+    }
+    
+    /** Push element x onto stack. */
+    void push(int x) {
+        return deq.push_back(x);
+    }
+    
+    /** Removes the element on top of the stack and returns that element. */
+    int pop() {
+        int top = deq.back();
+        deq.pop_back();
+        return top;
+    }
+    
+    /** Get the top element. */
+    int top() {
+        return deq.back();
+    }
+    
+    /** Returns whether the stack is empty. */
+    bool empty() {
+        return deq.empty();
     }
 };

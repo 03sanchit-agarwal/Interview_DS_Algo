@@ -1,11 +1,13 @@
 <img src="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/icon.png" align="right" /> <a href="https://github.com/MAZHARMIK"><img style="position: absolute; top: 0; left: 0; border: 0;" src="https://camo.githubusercontent.com/82b228a3648bf44fc1163ef44c62fcc60081495e/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f6c6566745f7265645f6161303030302e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_left_red_aa0000.png"></a>
 <img src="https://cdn-images-1.medium.com/max/1200/1*Y1IuqrkoDWLlfz_BSaesGQ.jpeg" width="600" height="250">
 
-# Arrays : :triangular_flag_on_post:
+# DP : :triangular_flag_on_post:
 <details>
   <summary>:arrow_down_small:Click to :mag: and :dizzy_face: the sub-topics (Example : 1-D DP, Game Strategy etc.)</summary>
   
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/DP/1-D%20DP">:file_folder:1-D D.P</a>
+
+  <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/DP/LIS%20%26%20Variants">:file_folder:LIS & Variants</a>
 
   <a href="https://github.com/MAZHARMIK/Interview_DS_Algo/tree/master/DP/Bit%20Magic%20DP">:file_folder:Bit Magic DP</a>
 
@@ -153,7 +155,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Unique%20Paths%20(DP%20and%20Memoized)">Unique Paths (DP and Memoized) (Leetcode - 62)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Unique%20Paths.cpp">Unique Paths (Leetcode - 62)</a>
 				</td>
 			</tr>
 			<tr>
@@ -169,11 +171,6 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			<tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Longest%20Increasing%20Subsequence.cpp">Number of Longest Increasing Subsequence (Leetcode - 673)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Longest%20Increasing%20Subsequence.cpp">Longest Increasing Subsequence (Leetcode - 300)</a>
 				</td>
 			</tr>
 			<tr>
@@ -253,11 +250,6 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Russian%20Doll%20Envelopes">Russian Doll Envelopes (Leetcode-354)</a>
-				</td>
-			</tr>
-			<tr>
-        			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Ones%20and%20Zeroes">Ones and Zeroes (Leetcode-474)</a>
 				</td>
 			</tr>
@@ -308,7 +300,7 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Super_Egg_Drop.cpp">Super Egg Drop  (4 approaches) (Leetcode-887)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Super%20Egg%20Drop.cpp">Super Egg Drop  (4 approaches) (Leetcode-887)</a>
 				</td>
 			</tr>
 			<tr>
@@ -343,12 +335,12 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Interleaving_String.cpp">Interleaving String (4 approaches) (Leetcode-97)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Interleaving%20String.cpp">Interleaving String (4 approaches) (Leetcode-97)</a>
 				</td>
 			</tr>
 			<tr>
         			<td>
-					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Min_Cost_Climbing_Stairs.cpp">Min Cost Climbing Stairs (4 approaches) (Leetcode-764)</a>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Min%20Cost%20Climbing%20Stairs.cpp">Min Cost Climbing Stairs (4 approaches) (Leetcode-764)</a>
 				</td>
 			</tr>
 			<tr>
@@ -617,6 +609,46 @@ Scramble String (Leetcode-87) (Memoized) </a>
 			</tr>
         			<td>
 					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Check%20if%20There%20is%20a%20Valid%20Partition%20For%20The%20Array.cpp"> Check if There is a Valid Partition For The Array (Leetcode-2369)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Frog%20Jump.cpp"> Frog Jump (Leetcode-403)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Extra%20Characters%20in%20a%20String.cpp"> Extra Characters in a String (Leetcode-2707)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Champagne%20Tower.cpp"> Champagne Tower (Leetcode-799)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Integer%20Break.cpp"> Integer Break (Leetcode-343)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Max%20Dot%20Product%20of%20Two%20Subsequences.cpp"> Max Dot Product of Two Subsequences (Leetcode-1458)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Painting%20the%20Walls.cpp"> Painting the Walls (Leetcode-2742)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Number%20of%20Ways%20to%20Stay%20in%20the%20Same%20Place%20After%20Some%20Steps.cpp"> Number of Ways to Stay in the Same Place After Some Steps (Leetcode-1269)</a>
+				</td>
+			</tr>
+			</tr>
+        			<td>
+					<a href="https://github.com/MAZHARMIK/Interview_DS_Algo/blob/master/DP/Maximum%20Points%20After%20Collecting%20Coins%20From%20All%20Nodes.cpp"> Maximum Points After Collecting Coins From All Nodes (Leetcode-2920)</a>
 				</td>
 			</tr>
 		</tbody>
